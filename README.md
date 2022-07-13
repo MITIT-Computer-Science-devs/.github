@@ -1,4 +1,4 @@
-# Our aim is to create simple and powerful code wich can solve important problems.   
+# Our aim is to create simple and powerful code which can solve important problems.   
 
 ## 3Q 2022 kaf22 program to work with documents
 This is a full stack application with easy to understand design. The purpose of application is to make work with documents a bit easier than it is at the moment.
